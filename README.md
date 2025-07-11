@@ -1,2 +1,2 @@
 # 25_S_SWPI
-# My name is 성철
+# 20222882 Yoon Seongchul
