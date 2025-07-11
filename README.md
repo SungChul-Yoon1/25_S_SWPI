@@ -1,3 +1,3 @@
 # 25_S_SWPI
-# 20222882 Yoon Seongchul
+# 20222882     Yoon Seongchul
 # Kookmin Univ. SW.
